@@ -1,0 +1,41 @@
+.aa {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.bb {
+  background-color: green;
+  color: white;
+  padding: 20px 40px;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.bb h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.bb p {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.bb button {
+  background-color: white;
+  color: green;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.bb button:hover {
+  background-color: cyan;
+}
